@@ -38,7 +38,3 @@ dist-ssr
 *.sln
 *.sw?
 *.pem
-
-
-package-lock.json
-yarn.lock
